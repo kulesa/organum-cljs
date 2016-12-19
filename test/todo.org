@@ -1,0 +1,8 @@
+* Heading 1
+** Heading 2
+   - [ ] checklist item 1
+*** Heading 3
+* TODOS
+** DONE create dummy orgmode file
+** TODO Test orgmode parsin
+*** TODO Nested todo!
