@@ -1,4 +1,5 @@
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.kulesa/organum-cljs.svg)](https://clojars.org/org.clojars.kulesa/organum-cljs)
+[![Build Status](https://travis-ci.org/kulesa/organum-cljs.svg?branch=master)]
 # Organum-cljs
 
 Simple [org-mode](http://orgmode.org) parser in ClojureScript. Port of [Organum](https://github.com/seylerius/organum).
